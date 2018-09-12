@@ -7,6 +7,8 @@
     "@material-ui/core": "^3.0.1",
     "@material-ui/icons": "^3.0.1",
     "@nteract/notebook-preview": "^7.1.0",
+    "alset-passengerpicker-game": "git://github.com/walkwel/games2.git#passengerPicker",
+    "alset-squad-game": "git://github.com/walkwel/games2.git#squad",
     "brace": "^0.11.1",
     "classnames": "2.2.5",
     "connected-react-router": "^4.3.0",
